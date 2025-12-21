@@ -1,0 +1,35 @@
+# Core Dependencies
+torch>=1.10.0
+torchvision>=0.11.0
+torchaudio>=0.10.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+Pillow>=8.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning & Evaluation
+scikit-learn>=0.24.0
+
+# Progress Bars
+tqdm>=4.62.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.4.0
+
+# Optional: For Google Colab compatibility
+# google-colab (only install if using Colab)
+
+# Optional: Model Summary
+torchsummary>=1.5.1
+
+# Development Tools (Optional)
+# pytest>=6.2.0
+# black>=21.0
+# flake8>=3.9.0
